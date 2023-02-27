@@ -128,12 +128,15 @@
     .mx_Button_iconSignIn {
         background-image: url("welcome/images/icon-sign-in.svg");
     }
+
     .mx_Button_iconCreateAccount {
         background-image: url("welcome/images/icon-create-account.svg");
     }
+
     .mx_Button_iconHelp {
         background-image: url("welcome/images/icon-help.svg");
     }
+
     .mx_Button_iconRoomDirectory {
         background-image: url("welcome/images/icon-room-directory.svg");
     }
@@ -150,6 +153,7 @@ we don't have an account and should hide them. No account == no guest account ei
     .mx_ButtonRow.mx_WelcomePage_guestFunctions {
         margin-top: 20px;
     }
+
     .mx_ButtonRow.mx_WelcomePage_guestFunctions > div {
         margin: 0 auto;
     }
@@ -166,12 +170,10 @@ we don't have an account and should hide them. No account == no guest account ei
 </style>
 
 <div class="mx_Parent">
-    <a href="https://element.io" target="_blank" rel="noopener">
-        <img src="welcome/images/logo.svg" alt="" class="mx_Logo" />
-    </a>
-    <h1 class="mx_Header_title">_t("Welcome to Element")</h1>
+    <img src="welcome/images/logo.svg" alt="" class="mx_Logo"/>
+    <h1 class="mx_Header_title">_t("Welcome to OxygenNet")</h1>
     <!-- XXX: Our translations system isn't smart enough to recognize variables in the HTML, so we manually do it -->
-    <h4 class="mx_Header_subtitle">_t("Decentralised, encrypted chat &amp; collaboration powered by $matrixLogo")</h4>
+    <h4 class="mx_Header_subtitle">_t("Decentralised, encrypted chat &amp; collaboration powered by OxygenNet.")</h4>
     <div class="mx_ButtonGroup">
         <div class="mx_ButtonRow">
             <a href="#/login" class="mx_ButtonParent mx_ButtonSignIn mx_Button_iconSignIn">

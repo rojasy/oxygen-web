@@ -1,4 +1,5 @@
 {
+    "Welcome to OxygenNet": "Welcome to OxygenNet",
     "Dismiss": "Dismiss",
     "Unknown device": "Unknown device",
     "Welcome to Element": "Welcome to Element",
@@ -19,6 +20,7 @@
     "Your browser can't run %(brand)s": "Your browser can't run %(brand)s",
     "Unsupported browser": "Unsupported browser",
     "Powered by Matrix": "Powered by Matrix",
+    "Powered by Oxygen-Net copyright 2023": "Powered by Oxygen-Net copyright 2023",
     "Go to your browser to complete Sign In": "Go to your browser to complete Sign In",
     "Open": "Open",
     "Download Completed": "Download Completed",
@@ -26,6 +28,7 @@
     "Your Element configuration contains invalid JSON. Please correct the problem and reload the page.": "Your Element configuration contains invalid JSON. Please correct the problem and reload the page.",
     "Your Element is misconfigured": "Your Element is misconfigured",
     "Decentralised, encrypted chat &amp; collaboration powered by $matrixLogo": "Decentralised, encrypted chat &amp; collaboration powered by $matrixLogo",
+    "Decentralised, encrypted chat &amp; collaboration powered by OxygenNet.": "Decentralised, encrypted chat &amp; collaboration powered by OxygenNet.",
     "Use %(brand)s on mobile": "Use %(brand)s on mobile",
     "%(appName)s: %(browserName)s on %(osName)s": "%(appName)s: %(browserName)s on %(osName)s",
     "%(brand)s Desktop: %(platformName)s": "%(brand)s Desktop: %(platformName)s"
