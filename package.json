@@ -1,11 +1,11 @@
 {
-    "name": "element-web",
+    "name": "oxygen-web",
     "version": "1.11.23",
-    "description": "A feature-rich client for Matrix.org",
-    "author": "New Vector Ltd.",
+    "description": "A feature-rich client for Oxygen.org",
+    "author": "egovridc",
     "repository": {
         "type": "git",
-        "url": "https://github.com/vector-im/element-web"
+        "url": "https://github.com/oxygen-web"
     },
     "license": "Apache-2.0",
     "files": [
@@ -57,6 +57,7 @@
     "dependencies": {
         "@matrix-org/olm": "https://gitlab.matrix.org/api/v4/projects/27/packages/npm/@matrix-org/olm/-/@matrix-org/olm-3.2.12.tgz",
         "@matrix-org/react-sdk-module-api": "^0.0.3",
+        "electron-build-env": "^0.2.0",
         "gfm.css": "^1.1.2",
         "jsrsasign": "^10.5.25",
         "katex": "^0.16.0",

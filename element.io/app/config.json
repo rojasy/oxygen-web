@@ -1,6 +1,6 @@
 {
     "default_server_name": "matrix.org",
-    "brand": "Element",
+    "brand": "OxygenNet",
     "integrations_ui_url": "https://scalar.vector.im/",
     "integrations_rest_url": "https://scalar.vector.im/api",
     "integrations_widgets_urls": [
@@ -32,7 +32,7 @@
         }
     ],
     "hostSignup": {
-        "brand": "Element Home",
+        "brand": "Oxygen Home",
         "cookiePolicyUrl": "https://element.io/cookie-policy",
         "domains": ["matrix.org"],
         "privacyPolicyUrl": "https://element.io/privacy",

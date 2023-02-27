@@ -3810,7 +3810,7 @@ combined-stream@^1.0.8:
   dependencies:
     delayed-stream "~1.0.0"
 
-commander@^2.20.0:
+commander@^2.20.0, commander@^2.9.0:
   version "2.20.3"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.20.3.tgz#fd485e84c03eb4881c20722ba48035e8531aeb33"
   integrity sha512-GpVkmM8vF2vQUkj2LvZmD35JxeJOLCwJ9cUkugyk2nuhbv3+mJvpLYYt+0+USMxE+oj+ey/lJEnhZw75x/OMcQ==
@@ -4816,6 +4816,14 @@ ee-first@1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/ee-first/-/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d"
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
+
+electron-build-env@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/electron-build-env/-/electron-build-env-0.2.0.tgz#5649ee3e5fd006e267086caa945b77a1fa220b92"
+  integrity sha512-L431TbXtXe6iw3ko7ITr/qCu+jumVKLAhCDyhqfab6421LGlawVcT88Ws/DHR57+1lkLN1POQqwNOkjPwQJQmQ==
+  dependencies:
+    commander "^2.9.0"
+    mkdirp "^0.5.1"
 
 electron-to-chromium@^1.4.251, electron-to-chromium@^1.4.284:
   version "1.4.294"
