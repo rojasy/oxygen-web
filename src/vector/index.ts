@@ -208,7 +208,6 @@ async function start(): Promise<void> {
             }
             return showError(_t("Unable to load config file: please refresh the page to try again."));
         }
-
         // ##################################
         // app load critical path starts here
         // assert things started successfully
