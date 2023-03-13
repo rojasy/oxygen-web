@@ -47,8 +47,8 @@ const ErrorView: React.FC<IProps> = ({ title, messages }) => {
                 </div>
                 <div className="mx_HomePage_row mx_Center mx_Spacer">
                     <p className="mx_Spacer">
-                        <a href="https://element.io" target="_blank" className="mx_FooterLink">
-                            {_t("Go to element.io")}
+                        <a href="https://oxygen.co.tz" target="_blank" className="mx_FooterLink">
+                            {_t("Go to oxygenNet")}
                         </a>
                     </p>
                 </div>
